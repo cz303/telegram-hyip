@@ -187,7 +187,7 @@ if Path(PRIVATE_SSH).is_file() and Path(CERT_SSH).is_file():
         url_path=token,
         key=PRIVATE_SSH,
         cert=CERT_SSH,
-        webhook_url=f'https://167.99.218.143:8443/{token}'
+        webhook_url=f'https://hyipcrew.herokuapp.com/{token}'
     )
     print('Webhook updater started')
 else:
