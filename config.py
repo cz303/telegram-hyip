@@ -1,6 +1,6 @@
-_ETH_ADDRESS = '(тут адрес эфира)'
+_ETH_ADDRESS = '(0x57a3e009ad125d5fcf1a800bec2115f2a8096d0b)'
 _DB_NAME = 'ascension.db'
-_SUPPORT_ACCOUNT = '@ico_day_support'
+_SUPPORT_ACCOUNT = '@master_long'
 DEBUG = True
 
 
